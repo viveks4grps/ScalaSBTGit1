@@ -3,6 +3,7 @@
  */
 object ScalaObj1 {
   def main(args: Array[String]) {
-    print("Welcome to the scala world")
+    println("Welcome to the scala world")
+    println("With Git it works!!!")
   }
 }
