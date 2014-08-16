@@ -5,6 +5,6 @@ object ScalaObj1 {
   def main(args: Array[String]) {
     println("Welcome to the scala world")
     println("With Git it works!!!")
-    println("ScalaObj1.scala revisited")
+    println("ScalaObj1.scala revisited after long time")
   }
 }
